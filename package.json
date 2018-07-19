@@ -1,0 +1,20 @@
+{
+  "name": "tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "git log --oneline"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmeasday/git-tester-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmeasday/git-tester-/issues"
+  },
+  "homepage": "https://github.com/tmeasday/git-tester-#readme"
+}
